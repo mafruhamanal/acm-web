@@ -14,5 +14,5 @@ searchButton.addEventListener("click", () => {
 
 // Fetch Weather Data
 function fetchWeather(location) {
-  
+  //  const url = ${apiUrl}?q=${location}&APPID=${apiKey};
 }
